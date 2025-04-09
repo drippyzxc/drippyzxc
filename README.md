@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Wet+Paint&size=30&duration=1&pause=1000&color=660000&repeat=false&width=435&lines=Artem+Rarog" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Atma&size=30&duration=4000&pause=250&color=8B0000&width=435&lines=Frontend-developer;Learning+never+stops;UX-focused+mindset;Linux+on+the+desktop%2C+JavaScript+in+the+browser" alt="Typing SVG" /></a>
+</p>
+
 # 💫 About Me:
 💻 Frontend-разработчик<br>🚀 Увлекаюсь Open Source<br>📍 Пишу на JavaScript, React и TypeScript<br>🔧 В работе использую Git и Linux
 
