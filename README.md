@@ -37,11 +37,11 @@
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p> -->
-
+<!--
 # 💫 About Me:
 💻 Frontend-разработчик<br>🚀 Увлекаюсь Open Source<br>📍 Пишу на JavaScript, React и TypeScript<br>🔧 В работе использую Git и Linux
 
-
+-->
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rarog123321@gmail.com) 
 
