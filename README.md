@@ -15,8 +15,18 @@
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://github.com/drippyzxc/appslogo/blob/main/headhunting(2).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/drippyzxc/appslogo/blob/main/headhunting(1).png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="https://discord.gg/fPrdqh3Zfu" alt="Gmail" title="Dev Pro Tips Discord Server"><img width="32px" src="https://github.com/drippyzxc/appslogo/blob/main/mail(1).png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/drippyzxc?color=000&style=for-the-badge&labelColor=660000&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drippyzxc?color=000&labelColor=660000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
 <details> 
