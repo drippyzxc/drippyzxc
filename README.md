@@ -82,26 +82,14 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=drippyzxc&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000&title_color=CC1100&icon_color=800000&text_color=800000" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=drippyzxc&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000&title_color=CC1100&color=000&text_color=8B0000&&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=drippyzxc&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000&title_color=CC1100&text_color=8B0000&&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. ❗️ Closed issue [#30](https://github.com/DenverCoder1/countdown/issues/30) in [DenverCoder1/countdown](https://github.com/DenverCoder1/countdown)
-2. 🎉 Merged PR [#198](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/198) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. ❗️ Opened issue [#306](https://github.com/torahcalc/torahcalc/issues/306) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. 🎉 Merged PR [#305](https://github.com/torahcalc/torahcalc/pull/305) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. 💪 Opened PR [#305](https://github.com/torahcalc/torahcalc/pull/305) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-<!--END_SECTION:activity-->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=drippyzxc&bg_color=000&color=CC1100&line=CC1100&point=8b0000&hide_border=true" /></a>
 
 </details>
 
