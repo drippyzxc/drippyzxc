@@ -82,7 +82,7 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=drippyzxc&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000&title_color=CC1100&icon_color=800000&text_color=800000" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=drippyzxc&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000&title_color=CC1100&&lang_progress=000&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=drippyzxc&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000&title_color=CC1100&color=000&text_color=8B0000&&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
