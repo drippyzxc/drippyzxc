@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord"><img width="32px" src="https://github.com/drippyzxc/appslogo/blob/main/headhunting(2).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="HeadHunter" src="https://github.com/drippyzxc/appslogo/blob/main/headhunting(1).png"/></a>
+  <a href="https://novosibirsk.hh.ru/resume/e9cb84daff0e9131c60039ed1f564a4f385755"><img width="32px" alt="Ko-fi" title="HeadHunter" src="https://github.com/drippyzxc/appslogo/blob/main/headhunting(1).png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="mailto:rarog123321@gmail.com" alt="Gmail" title="Gmail"><img width="32px" src="https://github.com/drippyzxc/appslogo/blob/main/mail(1).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
