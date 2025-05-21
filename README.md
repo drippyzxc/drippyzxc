@@ -10,9 +10,9 @@
 <p align="center">
   <a href="https://t.me/rarogdev"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/drippyzxc/appslogo/blob/main/telegram(1).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/drippyzxc/appslogo/blob/main/telegram(2).png"/></a>
+  <a href=""><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/drippyzxc/appslogo/blob/main/telegram(2).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord"><img width="32px" src="https://github.com/drippyzxc/appslogo/blob/main/headhunting(2).png"/></a>
+  <a href="" alt="Discord" title="Discord"><img width="32px" src="https://github.com/drippyzxc/appslogo/blob/main/headhunting(2).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://novosibirsk.hh.ru/resume/e9cb84daff0e9131c60039ed1f564a4f385755"><img width="32px" alt="Ko-fi" title="HeadHunter" src="https://github.com/drippyzxc/appslogo/blob/main/headhunting(1).png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
